@@ -120,7 +120,7 @@ def main(parser: argparse.ArgumentParser) -> None:
 
     pbench_data.print_report()
     pbench_data.print_timings()
-    # pbench_data.emit_csv()
+    pbench_data.emit_csv()
     print(f"--- merging run and result data took {duration:0.2f} seconds", flush=True)
 
     if memprof:
