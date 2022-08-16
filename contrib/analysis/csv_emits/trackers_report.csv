@@ -1,5 +1,5 @@
 ;valid;total_records;non_1_client;run_not_in_result;missing_ctrl_dir;missing_sosreports;non_2_sosreports;sosreports_diff_hosts;missing._id;duplicate_result_id;missing._source;missing._source/run;missing._source/run/id;missing._source/run/name;missing._source/iteration;missing._source/iteration/name;missing._source/sample;missing._source/sample/name;missing._source/sample/measurement_type;missing._source/sample/measurement_title;missing._source/sample/measurement_idx;missing._source/sample/mean;missing._source/sample/stddev;missing._source/sample/stddevpct;missing._source/sample/client_hostname;missing._source/benchmark/bs;missing._source/benchmark/direct;missing._source/benchmark/ioengine;missing._source/benchmark/max_stddevpct;missing._source/benchmark/primary_metric;missing._source/benchmark/rw;run_not_in_data;client_hostname_all;session_response_unsuccessful;response_invalid_json;0_clients;2_or_more_clients
-run;0;2301;1886.0;94.0;0.0;2301.0;0.0;0.0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-result;0;866025;;;;;;;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2208.0;0.0;0.0;0.0;0.0;866025.0;65152.0;;;;
-fio_extraction;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.0;0.0;;
-client_side;0;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.0;0.0
+run;1562;13407;10104.0;214.0;0.0;6178.0;628.0;0.0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+result;82227;5353340;;;;;;;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2208.0;0.0;0.0;0.0;0.0;5188886.0;489294.0;;;;
+fio_extraction;81586;82227;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;510.0;131.0;;
+client_side;82227;82227;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.0;0.0
